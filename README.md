@@ -1,6 +1,8 @@
 # Progetto-PDS 2015-2016
-Progetto per Programmazione di Sistema: task manager client/server.
 
-The purpose of this project is a client-server solution that allows the remote control of one or more Windows machines.
+#### Project for "Programmazione di Sistema" class at [Politecnico di Torino](http://www.polito.it/index.php?lang=en).
+
+The purpose of this project is to develop a client-server solution that allows the remote control of one or more Windows machines.
 
 The client is developed in C++ using the Qt library, the server is developed in C++ and used Windows APIs.
+Details about the project can be found in the files ___PDS_eng.pdf__ and ____PDS_ita.pdf_
