@@ -1,4 +1,4 @@
-# Progetto-PDS 2015-2016
+# PDS project 2015-2016
 
 #### Project for "Programmazione di Sistema" class at [Politecnico di Torino](http://www.polito.it/index.php?lang=en).
 
