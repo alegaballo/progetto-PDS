@@ -5,4 +5,4 @@
 The purpose of this project is to develop a client-server solution that allows the remote control of one or more Windows machines.
 
 The client is developed in C++ using the Qt library, the server is developed in C++ and used Windows APIs.
-Details about the project can be found in the files ___PDS_eng.pdf__ and ____PDS_ita.pdf_
+Details about the project can be found in the files _PDS_eng.pdf_ and _PDS_ita.pdf_
